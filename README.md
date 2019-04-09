@@ -1,6 +1,6 @@
 Repo for reproducing max-worker flag not limiting the number of node processes that get spun up with the bundle command. This branch demonstrates the **success scenario**.
 
-For the fail scenario, see the [master branch](/sterlingwes/rn-cli-repro/tree/master).
+For the fail scenario, see the [master branch](https://github.com/sterlingwes/rn-cli-repro/tree/master).
 
 For the success scenario, see the [fix branch](https://github.com/sterlingwes/rn-cli-repro/tree/fix-max-workers).
 
