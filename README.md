@@ -1,9 +1,11 @@
 Repo for reproducing max-worker flag not limiting the number of node processes that get spun up with the bundle command. This branch demonstrates the **fail scenario**.
 
+For the success scenario, see the [fix branch](https://github.com/sterlingwes/rn-cli-repro/tree/fix-max-workers).
+
 Expected output on this branch:
 
 ```
-~/code/ws/rn-cli-repro $ ./bundle.sh
+$ ./bundle.sh
 >>>>>>>>>>>> starting node processes: 1 <<<<<<<<<<<<
 warning: the transform cache was reset.
 Loading dependency graph...
