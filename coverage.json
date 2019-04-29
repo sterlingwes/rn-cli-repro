@@ -1,0 +1,61 @@
+{
+    "/Users/wjohnson/code/ws/rn-cli-repro/fake-src/app.js": {
+        "path": "/Users/wjohnson/code/ws/rn-cli-repro/fake-src/app.js",
+        "statementMap": {
+            "0": {
+                "start": {
+                    "line": 1,
+                    "column": 20
+                },
+                "end": {
+                    "line": 1,
+                    "column": 39
+                }
+            },
+            "1": {
+                "start": {
+                    "line": 3,
+                    "column": 0
+                },
+                "end": {
+                    "line": 3,
+                    "column": 21
+                }
+            }
+        },
+        "fnMap": {},
+        "branchMap": {},
+        "s": {
+            "0": 1,
+            "1": 1
+        },
+        "f": {},
+        "b": {},
+        "_coverageSchema": "43e27e138ebf9cfc5966b082cf9a028302ed4184",
+        "hash": "27ac4306038a7eed1213d1d2bdd7303a1b12cefb"
+    },
+    "/Users/wjohnson/code/ws/rn-cli-repro/fake-src/module.ios.js": {
+        "path": "/Users/wjohnson/code/ws/rn-cli-repro/fake-src/module.ios.js",
+        "statementMap": {
+            "0": {
+                "start": {
+                    "line": 2,
+                    "column": 0
+                },
+                "end": {
+                    "line": 2,
+                    "column": 38
+                }
+            }
+        },
+        "fnMap": {},
+        "branchMap": {},
+        "s": {
+            "0": 1
+        },
+        "f": {},
+        "b": {},
+        "_coverageSchema": "43e27e138ebf9cfc5966b082cf9a028302ed4184",
+        "hash": "c963e56a6f52851f90ec5cc4dfc17aa2c41eb968"
+    }
+}
